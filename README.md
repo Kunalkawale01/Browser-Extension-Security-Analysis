@@ -36,9 +36,3 @@ To learn how to identify, evaluate, and remove potentially harmful browser exten
 - Always review permissions before installing extensions.
 - Malicious extensions can track browsing history and steal personal data.
 - Removing unused or unverified extensions improves performance and security.
-- 
-### Repository Contents
-- **report/** → PDF & DOCX report files  
-- **screenshots/** → Browser screenshots before and after removal  
-- **docs/** → Notes on extension security  
-- **.gitignore** → To ignore temporary files  
